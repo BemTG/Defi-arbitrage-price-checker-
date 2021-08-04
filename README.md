@@ -1,4 +1,4 @@
-# Defi-arbitrage-price-checker-
+# Defi-DEX-arbitrage-crypto-price-checker-
 
 How to run the bot:
 1) npm install
